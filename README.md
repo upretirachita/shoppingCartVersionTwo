@@ -9,6 +9,8 @@
 # Delete item (delete item single from the shop or from cart  or all from the entire list from the cart )
 # Calculate for single product if you want more similar product or less product
 # Gives total output while checking out (for single product also for entire product)
+# After Selecting by Age or by price you can add item in the cart 
+# After Searching item you can add item or remove item in the cart 
 ![shopping1](https://user-images.githubusercontent.com/29287817/224303625-3d97fd04-9eac-4d04-b977-290f04d82f93.JPG)
 ![shopping2](https://user-images.githubusercontent.com/29287817/224303632-c54b5490-3974-40fa-91d5-3818095fad07.JPG)
 ![shopping3](https://user-images.githubusercontent.com/29287817/224303649-1b430338-a535-4bad-baa7-58e8548fa2e4.JPG)
